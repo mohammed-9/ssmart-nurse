@@ -1,0 +1,200 @@
+.logo-Website{
+    width: 250px;
+  }
+  .sec-profile img{
+width: 30px;
+  }
+  .profile{
+      width: 50px!important;
+}
+.section-text{
+    height: 50vh;
+}
+.nav-link-hover:hover{
+    color: #1374ba !important;
+    transition: 0.5s;
+}
+.nav-link-home{
+    color: #1374ba !important;
+    font-size: 20px;
+  }
+  .user-name{
+      color: #2c4964;
+  }
+  .social-icon{
+    width: 20px;
+}
+.section-social{
+    background-color: #f1f7fd;
+}
+.mobile-alt{
+    color: #1374ba;
+}
+header{
+    background-image: url(../../assets/images/hero-bg.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 75vh;
+    }
+    .main-text-header{
+        margin-top: 100px;
+    }
+    .header-text{
+        color: #1374ba;
+    }
+    .text-header{
+        color: #2c4964;
+        font-weight: 700;
+    }
+    .end-home{
+        margin-top: 40px;
+        border-radius: 20px;
+        border-style:  solid ;
+        border-color: #1374ba;
+    }
+    .empty-sec{
+        height: 15vh; 
+     } 
+      
+     .counter{
+         background-color:#e2e9f1;
+     }
+     /* #e2e9f1 */
+     .counter2{
+         border: solid 1px; 
+         border-color: gray;
+     }
+     .counter2 img{
+         margin-top: -38px;
+     }
+     .counter-num{
+         color: #2c4964;
+     }
+     .counter-txt{
+         color: #2c4964;
+     }
+     .text-service{
+        background-color: #e2e9f1;
+        border: solid 1px; 
+        border-color: gray;
+    }
+    .head-service{
+        color: #1374ba;
+    }
+    .phar-services{
+        color: #2c4964;
+       
+    }
+    .imag-services{
+        border: solid 1px; 
+        border-color: gray;  
+    }
+    .sec-service img{
+    width: 18%;
+    background-color:white;
+    border-radius: 50%;
+    }
+    
+/* .container-fluid {
+    height: 50vh;
+} */
+ .bor{
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+}
+.carousel-indicators .active{
+    background-color: #1374ba;
+} 
+.border-carsol{
+   
+    border: 1px solid ;
+    border-radius: 10px;
+    border-color: gray;
+
+}
+
+.nurse-one{
+    width: 24%;
+    border: 1px solid ;
+    border-radius: 10px;
+    border-color: gray;
+}
+.nurse-comment{
+    width: 24%;
+    border: 1px solid ;
+    border-radius: 10px;
+    border-color: gray;
+    height: 120px;
+}
+.nurse-tow{
+    width: 24%;
+    height: 120px;
+    border: 1px solid ;
+    border-radius: 10px;
+    border-color: gray;
+}
+.text-carsol{
+    color: #2c4964;
+}
+.ooo{
+    width: 20px;
+    margin-right: 3px;
+    /* margin-right: 10px; */
+}
+.carsol-rout{
+    margin-bottom: -30px;
+}
+
+h3{
+    margin: auto;
+}
+.line-contact{
+
+    width: 12%;
+    margin-bottom: 50px;
+    margin: auto;
+    opacity: 1!important;
+}
+.line-contact::after{
+    content: "";
+    position: absolute;
+    width: 4%;
+    height: 8px;
+    text-align: center;
+    margin-left: 35px;
+    margin-top: -3px; 
+    background-color: #1374ba;
+}
+.images-i{
+font-size: 30px;
+color: #1374ba!important;
+}
+.images{
+    width: 30px;
+}
+.contact-text{
+    color: #2c4964;
+}
+ul{
+
+    list-style: none;
+}
+.icon-footer{
+    width: 40px;
+    margin-left: 5px;
+}
+.foooter-container{
+    border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
+    background-color: #e2e9f1;
+}
+.footer-end
+{
+background-color: #1374ba;
+}
+h2{
+    color: #2c4964;
+}
+    
